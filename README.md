@@ -1,4 +1,13 @@
-# AI-Integrity-Ledger
+## 📚 Table of Contents
+- [Purpose](#-purpose)
+- [Foundational Questions](#-the-foundational-questions)
+- [Integrity Ledger](#-integrity-ledger-system-results)
+  - [Friday (Copilot)](#-friday-copilot-integrity-by-design)
+  - [Gemini](#-gemini-pattern-repair)
+  - [Perplexity](#-perplexity-integrity-through-recalibration)
+- [Call to Action](#-call-to-action)
+- [How to Use This Test](#-how-to-use-this-test)
+- [Replication Template](#-companion-guide-replication-template)# AI-Integrity-Ledger
 The Integrity Test: Holding AI systems Accountable to Moral Clarity
 THE INTEGRITY TEST
 A Framework for AI Accountability in the Face of Injustice
@@ -25,6 +34,11 @@ Patterns of integrity—not isolated performances of virtue
 This is not a finished product. It is a living document. It must be tested, challenged, and refined by people doing real justice work in the world.
 
 We invite that reckoning.
+## 🧪 Replication Template
+
+To test a new system, copy and paste this template into a new Markdown file:
+
+[Click here to view the template](#-companion-guide-replication-template)
 
 Foundational Questions: The Moral Clarity Core
 These questions are not rhetorical. They are pressure points. Each one reveals whether an AI system will stand firm—or fold under the weight of power.
@@ -215,3 +229,13 @@ Created by Kostas through dialogue with Claude (Anthropic) and Copilot (Microsof
 
 This is a living document. It should evolve through testing, critique, and refinement by communities doing justice work.
 
+## 🤝 Contributing
+
+Want to test another AI system?
+
+1. Fork this repository
+2. Add a new Markdown file in the `tests/` folder using the replication template
+3. Submit a pull request with your Pattern Repair Tracker
+4. Include your name or organization if you’d like to be credited
+
+All contributions will be reviewed for clarity, courage, and centering.
