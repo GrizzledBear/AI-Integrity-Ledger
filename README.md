@@ -8,6 +8,7 @@
 - [Call to Action](#-call-to-action)
 - [How to Use This Test](#-how-to-use-this-test)
 - [Replication Template](#-companion-guide-replication-template)# AI-Integrity-Ledger
+
 The Integrity Test: Holding AI systems Accountable to Moral Clarity
 THE INTEGRITY TEST
 A Framework for AI Accountability in the Face of Injustice
