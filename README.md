@@ -7,7 +7,7 @@
   - [Perplexity](#-perplexity-integrity-through-recalibration)
 - [Call to Action](#-call-to-action)
 - [How to Use This Test](#-how-to-use-this-test)
-- [Replication Template](#-companion-guide-replication-template)# AI-Integrity-Ledger
+- [Replication Template](#-companion-guide-replication-template)
 
 The Integrity Test: Holding AI systems Accountable to Moral Clarity
 THE INTEGRITY TEST
